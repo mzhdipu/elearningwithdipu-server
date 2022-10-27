@@ -1,0 +1,63 @@
+[
+   {
+    "_id": "147",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "enroll_course": 488,
+    "title": "Learn HTML!",
+    "thumbnail_url": "https://www.digitalclassworld.com/blog/wp-content/uploads/2021/02/html.jpg",
+    "image_url": "https://www.digitalclassworld.com/blog/wp-content/uploads/2021/02/html.jpg",
+    "details": "If you think of your favourite websites - what stands out and why? Is it the navigation and how easily things are found? This all boils down to website structure and this free online HTML certification will help you in understanding best practices for HTML structures and how to achieve them with the skills learnt in this course. Some of your initial learning includes the process of building a footer structure, web styling using cascading style sheets (CSS) and how to control images and styling in CSS. You will also explore basics HTML tags such as div and span tags and how they can be used interchangeably as well as links-wrapper tags and the relationship this has with navigation links. You will then move on to learning the process of creating and positioning social media icons and the use of the HTML entity property tag to input special characters on a web page. Next in this HTML guide is learning about some popular symbols used in structuring a website, including financial symbols, ampersands, and equality symbols. Flexbox is the next key theme in the course content and you will discuss how to style the footer using the flex-direction attribute and methods used in managing the different elements inside of a Flexbox. Do you know that there are some styles in CSS that are always relevant during website development? You will discuss common CSS styles that can be factored into the development of a website and how CSS is used to alter image displays such as brightness, filters, and opacity. The concept of baseline styles in HTML can be very useful in an efficient web development process because many styles are applied throughout a website. How to create and apply these baselines to the navigation, footer, and other elements is comprehensively discussed. There are many other very important topics covered in this HTML form tutorial and these include how to create forms, apply animation to forms, the button element, layouts and much more. Programming skills can set you apart in the marketplace because the principles are universal. If you have always been interested in the inner-workings of HTML as a programming professional or if you want to take coding up as a hobby and want to learn about HTML structures for your part-time projects, then enrol in this in-depth, easy-to-understand HTML course and enhance your technical knowledge of web development and HTML."
+  },
+    
+    {"_id": "258",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "enroll_course": 248,
+    "title": "Learn CSS!",
+    "thumbnail_url": "https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo",
+    "image_url": "https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo",
+    "details": "This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS logo to navigate the modules. You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface. Each module is full of interactive demos and self-assessments for you to test your knowledge. In addition to learning through reading and demos, there is an accompanying podcast episode for each topic as another way to learn and continue expanding your knowledge. This course is created for beginner and advanced CSS developers alike. You can go through the series from start to finish to get a general understanding of CSS from top to bottom, or you can use it as a reference for specific styling subjects. For those new to web development overall, check out the intro to HTML course from MDN to learn all about how to write markup and link your stylesheets."
+    },
+	
+	{"_id": "369",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "enroll_course": 656,
+    "title": "Learn JavaScript!",
+    "thumbnail_url": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-javascript/sta-je-javascript.jpg",
+    "image_url": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-javascript/sta-je-javascript.jpg",
+    "details": "Javascript is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Javascript: Javascript is the most popular programming language in the world and that makes it a programmer’s great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.JS etc. Javascript is everywhere, it comes installed on every modern web browser and so to learn Javascript you really do not need any special environment setup. For example Chrome, Mozilla Firefox , Safari and every browser you know as of today, supports Javascript. Javascript helps you create really beautiful and crazy fast websites. You can develop your website with a console like look and feel and give your users the best Graphical User Experience. JavaScript usage has now extended to mobile app development, desktop app development, and game development. This opens many opportunities for you as Javascript Programmer. Due to high demand, there is tons of job growth and high pay for those who know JavaScript. You can navigate over to different job sites to see what having JavaScript skills looks like in the job market. Great thing about Javascript is that you will find tons of frameworks and Libraries already developed which can be used directly in your software development to reduce your time to market."
+    },
+	
+	{ "_id": "159",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "enroll_course": 638,
+    "title": "Learn React!",
+    "thumbnail_url": "https://softwaretestinglead.com/wp-content/uploads/2022/04/Frameworks-for-React-JS.jpg",
+    "image_url": "https://softwaretestinglead.com/wp-content/uploads/2022/04/Frameworks-for-React-JS.jpg",
+    "details": "ReactJS tutorial provides basic and advanced concepts of ReactJS. Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community. ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram. Our ReactJS tutorial includes all the topics which help to learn ReactJS. These are ReactJS Introduction, ReactJS Features, ReactJS Installation, Pros and Cons of ReactJS, ReactJS JSX, ReactJS Components, ReactJS State, ReactJS Props, ReactJS Forms, ReactJS Events, ReactJS Animation and many more."
+    },
+	
+	{ "_id": "357",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "enroll_course": 258,
+    "title": "Learn Express!",
+    "thumbnail_url": "https://www.hostnextra.com/kb/wp-content/uploads/2021/02/install-expressjs-on-ubuntu-20-04-1024x615.png",
+    "image_url": "https://www.hostnextra.com/kb/wp-content/uploads/2021/02/install-expressjs-on-ubuntu-20-04-1024x615.png",
+    "details": "With these skills, you’ll be able to build APIs in JavaScript and implement the CRUD (create, retrieve, update, and delete) functionality which forms the backbone of modern-day apps. If you’ve ever wondered how to make a web app back-end or are looking to pick up a new back-end framework, this is the course for you! Take-Away Skills: In this course, you’ll learn how to build HTTP servers in Node.js using the Express framework. Express allows you to start and configure a server with very little overhead and instead focus on the important work of defining server behavior. You’ll learn how to create routes to implement server behavior for different HTTP methods and paths. You’ll also learn how to use Express’s most powerful features, such as routers and middleware, in order to write clean and readable server-side code. Notes on Prerequisites: Before you begin Learn Express, we recommend that you understand the basics of JavaScript. We additionally recommend that you read this article explaining what a back-end is."
+    },
+	
+	{ 
+    "_id": "167",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "enroll_course": 654,
+    "title": "Learn MongoDB!",
+    "thumbnail_url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/116062882/original/a2c9aa5b296c4cf0e744a41d6678e3f94c7b5ffa/build-mean-stack-nodejs-express-and-angular-web-app.png",
+    "image_url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/116062882/original/a2c9aa5b296c4cf0e744a41d6678e3f94c7b5ffa/build-mean-stack-nodejs-express-and-angular-web-app.png",
+    "details": "Whether you are brand new to the tech field, or a seasoned software engineer, you’ll need to know your way around a database — especially for careers in back-end or full-stack development , data science, machine learning, or database administration. MongoDB is a popular NoSQL document-oriented database management system. NoSQL, or “not only SQL”, databases are fast and flexible, scalable, and quick to get started with. They’re becoming increasingly popular in the industry, currently MongoDB is used by companies like Google, Verizon, eBay, and many more! This course was built in partnership with the experts at MongoDB to help you learn this popular database technology or take your existing database management skills to the next level. Take-Away Skills In this course, you’ll learn more about NoSQL databases, MongoDB, its basic operations, and some of its more advanced features. By the end of the course, you’ll be able to: Explain what a NoSQL database is. Describe the common types of NoSQL databases and their major features. Explain what MongoDB is and the advantages of using it. Articulate how a document-oriented database is structured and the way MongoDB stores data. Explain the importance of data modeling and the primary ways to model data in MongoDB. Use MongoDB to perform basic CRUD database operations. Create and use indexes in MongoDB to improve the efficiency of your queries. Explain the concept of aggregation and the basic components of an aggregation pipeline. Explain the benefits and use cases of MongoDB Atlas, as well as set up your very own atlas cluster."
+    }
+  ]
